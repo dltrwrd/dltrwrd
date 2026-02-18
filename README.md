@@ -243,7 +243,6 @@
       <td align="center" style="border: none; padding: 25px;">
         <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=1&pause=999999&color=3B82F6&center=true&vCenter=true&repeat=false&width=600&lines=%3E+Learning:+Next.js,+TypeScript,+AWS+Cloud" alt="Learning" />
         <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=20&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=%3E+Building:+Mobile+App+Integration+for+BRRMS" alt="Building" />
         <br>
         <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=20&duration=1&pause=999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=600&lines=%3E+Open+to:+Collaborations+in+Web+Technologies" alt="Open to" />
       </td>
@@ -288,12 +287,18 @@
   </table>
 </p>
 
+<!-- STATS COUNTERS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Profile%20Views-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=3B82F6&color=0D1117" />
+  <img src="https://visitcount.itsvg.in/api?id=edwardpolicarpio&label=Views&color=3&icon=0&pretty=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=10B981&color=0D1117" />
+  <img src="https://img.shields.io/badge/1.2k+-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=10B981" />
+</p>
+
 <!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12,18,24,30&height=150&section=footer&animation=twinkling" width="100%"/>
-</p>
-
-<!-- VISITOR COUNTER (OPTIONAL - SMALL AND DISCREET) -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=edwardpolicarpio&label=👀%20Profile%20Views&color=3&icon=5&pretty=true" />
 </p>
