@@ -138,49 +138,49 @@
         A comprehensive web-based management system revolutionizing barangay operations. Served as <strong>Project Leader & Lead Developer</strong> for this production system.
       </p>
       
-      <table style="border: none; width: 100%;">
-        <tr>
-          <td width="5%">✅</td>
-          <td width="45%"><strong>Document Generation</strong></td>
-          <td width="5%">✅</td>
-          <td width="45%"><strong>Request Tracking</strong></td>
-        </tr>
-        <tr>
-          <td>✅</td>
-          <td><strong>SMS Gateway</strong></td>
-          <td>✅</td>
-          <td><strong>Telegram Bot API</strong></td>
-        </tr>
-        <tr>
-          <td>✅</td>
-          <td><strong>REST API</strong></td>
-          <td>✅</td>
-          <td><strong>Resident Management</strong></td>
-        </tr>
-      </table>
-      
-      <p align="center" style="margin-top: 20px;">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      
-      <p align="center">
-        <a href="https://bgryemgmabrrms.com/">
-          <img src="https://img.shields.io/badge/🔗_Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="35%" align="center" style="border: none; background: rgba(59,130,246,0.1); border-radius: 15px; vertical-align: middle;">
-      <h1>📊</h1>
-      <h3>500+</h3>
-      <p>Active Users</p>
-      <h3>1000+</h3>
-      <p>Documents</p>
-      <h3>24/7</h3>
-      <p>Uptime</p>
-    </td>
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td width="5%">✅</td>
+      <td width="45%"><strong>Document Generation</strong></td>
+      <td width="5%">✅</td>
+      <td width="45%"><strong>Request Tracking</strong></td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><strong>SMS Gateway</strong></td>
+      <td>✅</td>
+      <td><strong>Telegram Bot API</strong></td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><strong>REST API</strong></td>
+      <td>✅</td>
+      <td><strong>Resident Management</strong></td>
+    </tr>
+  </table>
+  
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  </p>
+  
+  <p align="center">
+    <a href="https://bgryemgmabrrms.com/">
+      <img src="https://img.shields.io/badge/🔗_Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+  </p>
+</td>
+<td width="35%" align="center" style="border: none; background: rgba(59,130,246,0.1); border-radius: 15px; vertical-align: middle;">
+  <h1>📊</h1>
+  <h3>500+</h3>
+  <p>Active Users</p>
+  <h3>1000+</h3>
+  <p>Documents</p>
+  <h3>24/7</h3>
+  <p>Uptime</p>
+</td>
   </tr>
 </table>
 
@@ -204,33 +204,33 @@
         An intelligent bot bridging the gap between citizens and government services.
       </p>
       
-      <table style="border: none; width: 100%;">
-        <tr>
-          <td width="5%">✅</td>
-          <td width="45%"><strong>Real-time Updates</strong></td>
-          <td width="5%">✅</td>
-          <td width="45%"><strong>Mobile Linking</strong></td>
-        </tr>
-        <tr>
-          <td>✅</td>
-          <td><strong>Chat ID Mapping</strong></td>
-          <td>✅</td>
-          <td><strong>Auto Responses</strong></td>
-        </tr>
-      </table>
-      
-      <p align="center" style="margin-top: 20px;">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      
-      <p align="center">
-        <a href="https://t.me/brmbsbot">
-          <img src="https://img.shields.io/badge/🤖_Try_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </td>
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td width="5%">✅</td>
+      <td width="45%"><strong>Real-time Updates</strong></td>
+      <td width="5%">✅</td>
+      <td width="45%"><strong>Mobile Linking</strong></td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><strong>Chat ID Mapping</strong></td>
+      <td>✅</td>
+      <td><strong>Auto Responses</strong></td>
+    </tr>
+  </table>
+  
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  </p>
+  
+  <p align="center">
+    <a href="https://t.me/brmbsbot">
+      <img src="https://img.shields.io/badge/🤖_Try_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+  </p>
+</td>
   </tr>
 </table>
 
@@ -245,42 +245,42 @@
         Automated sales and inventory system with comprehensive reporting and POS.
       </p>
       
-      <table style="border: none; width: 100%;">
-        <tr>
-          <td width="5%">✅</td>
-          <td width="45%"><strong>Sales Computation</strong></td>
-          <td width="5%">✅</td>
-          <td width="45%"><strong>POS Module</strong></td>
-        </tr>
-        <tr>
-          <td>✅</td>
-          <td><strong>Receipt Generation</strong></td>
-          <td>✅</td>
-          <td><strong>Role-Based Access</strong></td>
-        </tr>
-        <tr>
-          <td>✅</td>
-          <td><strong>Inventory Tracking</strong></td>
-          <td>✅</td>
-          <td><strong>Daily Reports</strong></td>
-        </tr>
-      </table>
-      
-      <p align="center" style="margin-top: 20px;">
-        <img src="https://img.shields.io/badge/MS_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-      </p>
-    </td>
-    <td width="35%" align="center" style="border: none; background: rgba(164,55,58,0.1); border-radius: 15px; vertical-align: middle;">
-      <h1>💼</h1>
-      <h3>100%</h3>
-      <p>Automated</p>
-      <h3>📈</h3>
-      <p>Real-time</p>
-      <h3>🔐</h3>
-      <p>Secure</p>
-    </td>
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td width="5%">✅</td>
+      <td width="45%"><strong>Sales Computation</strong></td>
+      <td width="5%">✅</td>
+      <td width="45%"><strong>POS Module</strong></td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><strong>Receipt Generation</strong></td>
+      <td>✅</td>
+      <td><strong>Role-Based Access</strong></td>
+    </tr>
+    <tr>
+      <td>✅</td>
+      <td><strong>Inventory Tracking</strong></td>
+      <td>✅</td>
+      <td><strong>Daily Reports</strong></td>
+    </tr>
+  </table>
+  
+  <p align="center" style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/MS_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  </p>
+</td>
+<td width="35%" align="center" style="border: none; background: rgba(164,55,58,0.1); border-radius: 15px; vertical-align: middle;">
+  <h1>💼</h1>
+  <h3>100%</h3>
+  <p>Automated</p>
+  <h3>📈</h3>
+  <p>Real-time</p>
+  <h3>🔐</h3>
+  <p>Secure</p>
+</td>
   </tr>
 </table>
 
