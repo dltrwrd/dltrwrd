@@ -70,21 +70,14 @@
   🚀 FEATURED PROJECTS 🚀
 </h2>
 
-<!-- PROJECT 1 - BRRMS -->
-<p align="center">
-  <table width="100%" style="border: none; border-collapse: collapse;">
-    <tr>
-      <td width="33%" align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/🏆-LEAD%20DEVELOPER-3B82F6?style=flat-square" width="150"/>
-      </td>
-      <td width="67%" style="border: none;">
-        <h3>📋 BARANGAY RECORDS MANAGEMENT SYSTEM (BRRMS)</h3>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px;">
+<!-- PROJECT 1 - BRRMS (FIXED) -->
+<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px; margin-bottom: 20px;">
+  <tr>
+    <td colspan="2" style="border: none; padding: 10px 20px;">
+      <img src="https://img.shields.io/badge/🏆-LEAD%20DEVELOPER-3B82F6?style=flat-square" width="150"/>
+      <h2 style="display: inline-block; margin-left: 20px;">📋 BARANGAY RECORDS MANAGEMENT SYSTEM (BRRMS)</h2>
+    </td>
+  </tr>
   <tr>
     <td width="60%" style="border: none; padding: 20px;">
       <p>
@@ -92,12 +85,13 @@
         A comprehensive web-based management system revolutionizing barangay operations. Served as <strong>Project Leader & Lead Developer</strong> for this production system serving hundreds of residents.
       </p>
       
+      <!-- FIXED FEATURE GRID -->
       <table style="border: none; width: 100%;">
         <tr>
-          <td>✅</td>
-          <td><strong>Document Generation System</strong></td>
-          <td>✅</td>
-          <td><strong>Request Tracking Module</strong></td>
+          <td width="5%">✅</td>
+          <td width="45%"><strong>Document Generation System</strong></td>
+          <td width="5%">✅</td>
+          <td width="45%"><strong>Request Tracking Module</strong></td>
         </tr>
         <tr>
           <td>✅</td>
@@ -113,6 +107,7 @@
         </tr>
       </table>
       
+      <!-- FIXED TECH BADGES -->
       <p align="center" style="margin-top: 20px;">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
@@ -126,7 +121,7 @@
         </a>
       </p>
     </td>
-    <td width="40%" align="center" style="border: none; background: rgba(59,130,246,0.1); border-radius: 15px;">
+    <td width="40%" align="center" style="border: none; background: rgba(59,130,246,0.1); border-radius: 15px; vertical-align: middle;">
       <h1>📊</h1>
       <h2>500+</h2>
       <p>Active Users</p>
@@ -138,12 +133,10 @@
   </tr>
 </table>
 
-<br>
-
-<!-- PROJECT 2 - TELEGRAM BOT -->
-<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px;">
+<!-- PROJECT 2 - TELEGRAM BOT (FIXED) -->
+<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px; margin-bottom: 20px;">
   <tr>
-    <td width="40%" align="center" style="border: none; background: rgba(38,165,228,0.1); border-radius: 15px;">
+    <td width="40%" align="center" style="border: none; background: rgba(38,165,228,0.1); border-radius: 15px; vertical-align: middle;">
       <h1>🤖</h1>
       <h2>300+</h2>
       <p>Active Users</p>
@@ -153,18 +146,20 @@
       <p>Automated</p>
     </td>
     <td width="60%" style="border: none; padding: 20px;">
-      <h3>🤖 BRRMS TELEGRAM BOT</h3>
+      <img src="https://img.shields.io/badge/🤖-BOT%20DEVELOPER-26A5E4?style=flat-square" width="130"/>
+      <h2>🤖 BRRMS TELEGRAM BOT</h2>
       <p>
         <strong>Real-time Notification System</strong><br>
         An intelligent bot bridging the gap between citizens and government services. Provides instant updates on document requests through Telegram.
       </p>
       
+      <!-- FIXED FEATURE GRID -->
       <table style="border: none; width: 100%;">
         <tr>
-          <td>✅</td>
-          <td><strong>Real-time Status Updates</strong></td>
-          <td>✅</td>
-          <td><strong>Mobile Number Linking</strong></td>
+          <td width="5%">✅</td>
+          <td width="45%"><strong>Real-time Status Updates</strong></td>
+          <td width="5%">✅</td>
+          <td width="45%"><strong>Mobile Number Linking</strong></td>
         </tr>
         <tr>
           <td>✅</td>
@@ -189,24 +184,24 @@
   </tr>
 </table>
 
-<br>
-
-<!-- PROJECT 3 - CUBVERTOS -->
-<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px;">
+<!-- PROJECT 3 - CUBVERTOS (FIXED) -->
+<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px; margin-bottom: 20px;">
   <tr>
     <td width="60%" style="border: none; padding: 20px;">
-      <h3>📊 CUBVERTOS SALES & MANAGEMENT SYSTEM</h3>
+      <img src="https://img.shields.io/badge/💼-SYSTEM%20DESIGNER-A4373A?style=flat-square" width="140"/>
+      <h2>📊 CUBVERTOS SALES & MANAGEMENT SYSTEM</h2>
       <p>
         <strong>Enterprise Business Solution</strong><br>
         Automated sales and inventory system transforming business operations with comprehensive reporting and POS capabilities.
       </p>
       
+      <!-- FIXED FEATURE GRID -->
       <table style="border: none; width: 100%;">
         <tr>
-          <td>✅</td>
-          <td><strong>Automated Sales Computation</strong></td>
-          <td>✅</td>
-          <td><strong>POS Module</strong></td>
+          <td width="5%">✅</td>
+          <td width="45%"><strong>Automated Sales Computation</strong></td>
+          <td width="5%">✅</td>
+          <td width="45%"><strong>POS Module</strong></td>
         </tr>
         <tr>
           <td>✅</td>
@@ -228,7 +223,7 @@
         <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
       </p>
     </td>
-    <td width="40%" align="center" style="border: none; background: rgba(164,55,58,0.1); border-radius: 15px;">
+    <td width="40%" align="center" style="border: none; background: rgba(164,55,58,0.1); border-radius: 15px; vertical-align: middle;">
       <h1>💼</h1>
       <h2>100%</h2>
       <p>Automated</p>
