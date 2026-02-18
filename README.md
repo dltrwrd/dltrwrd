@@ -1,9 +1,3 @@
-if github cant diplay the html then, we use the raw code 
-
-
-so fix the issue I need more modern catchy UI for my github profile
-
-
 <!-- DYNAMIC GRADIENT HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12,18,24,30&height=200&section=header&text=EDWARD%20POLICARPIO&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Innovator&descAlignY=55&animation=twinkling" width="100%"/>
