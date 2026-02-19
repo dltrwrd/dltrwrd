@@ -207,7 +207,7 @@
   <table align="center" width="90%" style="border: none; background: linear-gradient(135deg, #2563eb, #7c3aed); border-radius: 32px;">
     <tr>
       <td align="center" style="border: none; padding: 30px;">
-        <h2 style="color: white;">✨ Let's Build Something Amazing Together ✨</h2>
+        <h2 style="color: white;">Let's Build Something Amazing Together</h2>
         <p style="color: white; font-size: 18px;">I'm always open to discussing new projects, creative ideas, or opportunities</p>
         <p>
           <a href="https://www.linkedin.com/in/jun-edward-policarpio-5196a4330/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-ffffff?style=for-the-badge&color=2563eb"/></a> 
