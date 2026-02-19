@@ -5,7 +5,7 @@
 
 <!-- PROFILE OVERVIEW CARD -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Edward;Full+Stack+Developer+from+Philippines;4%2B+Years+of+Coding+Experience;Passionate+about+Building+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Edward;Full+Stack+Developer;Passionate+about+Building+Solutions" alt="Typing SVG" />
 </p>
 
 <!-- 3D GLOWING PROFILE BADGE -->
@@ -26,9 +26,6 @@
   <a href="https://github.com/dltrwrd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
   </a>
-  <a href="https://t.me/brmbsbot">
-    <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/>
-  </a>
 </p>
 
 <!-- STATS DASHBOARD - MODERN METRICS CARDS -->
@@ -39,34 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dltrwrd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&border_radius=15" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dltrwrd&theme=github-dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=15" width="48%" />
-</p>
-
-<!-- LIVE COUNTERS SECTION -->
-<p align="center">
-  <table align="center" width="80%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 20px; padding: 15px;">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Total%20Commits-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-        <br>
-        <img src="https://img.shields.io/badge/1.2k%2B-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=10B981"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Repositories-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-        <br>
-        <img src="https://img.shields.io/badge/12%2B-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=3B82F6"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Profile%20Views-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-        <br>
-        <img src="https://visitcount.itsvg.in/api?id=dltrwrd&label=&color=8B5CF6&icon=5&pretty=true" />
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Contributions-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-        <br>
-        <img src="https://img.shields.io/badge/2024-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=EC4899"/>
-      </td>
-    </tr>
-  </table>
 </p>
 
 <!-- NEON DIVIDER -->
@@ -350,28 +319,8 @@
   </table>
 </p>
 
-<!-- FINAL STATS SECTION -->
-<p align="center">
-  <table align="center" width="70%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 20px; padding: 20px;">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Profile_Visitors-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-        <br>
-        <img src="https://visitcount.itsvg.in/api?id=dltrwrd&label=&color=8B5CF6&icon=5&pretty=true" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Last_Updated-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-        <br>
-        <img src="https://img.shields.io/badge/2026-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=10B981"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Total_Stars-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-        <br>
-        <img src="https://img.shields.io/badge/★-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FFD700"/>
-      </td>
-    </tr>
-  </table>
-</p>
+
+
 
 <!-- FOOTER WAVE -->
 <p align="center">
