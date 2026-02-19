@@ -92,166 +92,208 @@
 
 ## 🚀 FEATURED PROJECTS
 
-<!-- PROJECT 1 - BRRMS -->
-<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 20px rgba(59,130,246,0.2);">
-  <tr>
-    <td colspan="2" style="border: none; padding: 10px 20px;">
-      <img src="https://img.shields.io/badge/🏆-LEAD%20DEVELOPER-3B82F6?style=flat-square" width="150"/>
-      <h2 style="display: inline-block; margin-left: 20px;">📋 BARANGAY RECORDS MANAGEMENT SYSTEM</h2>
-    </td>
-  </tr>
-  <tr>
-    <td width="65%" style="border: none; padding: 20px;">
-      <p>
-        <strong>🏛️ Government Digital Transformation</strong><br>
-        A comprehensive web-based management system revolutionizing barangay operations. Served as <strong>Project Leader & Lead Developer</strong> for this production system.
-      </p>
-      
-  <table style="border: none; width: 100%;">
+<!-- PROJECT CARDS - MODERN GRID LAYOUT WITH HOVER EFFECTS -->
+<p align="center">
+  <table width="100%" style="border: none; border-collapse: separate; border-spacing: 20px;">
     <tr>
-      <td width="5%">✅</td>
-      <td width="45%"><strong>Document Generation</strong></td>
-      <td width="5%">✅</td>
-      <td width="45%"><strong>Request Tracking</strong></td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td><strong>SMS Gateway</strong></td>
-      <td>✅</td>
-      <td><strong>Telegram Bot API</strong></td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td><strong>REST API</strong></td>
-      <td>✅</td>
-      <td><strong>Resident Management</strong></td>
-    </tr>
-  </table>
+      <!-- CARD 1 - BRRMS (GOVERNMENT) -->
+      <td width="33.33%" style="border: none; padding: 0; vertical-align: top;">
+        <div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #161B22 100%); border-radius: 30px; padding: 25px 20px; box-shadow: 0 20px 40px rgba(59,130,246,0.25), 0 0 0 1px rgba(59,130,246,0.1) inset; transition: all 0.3s ease; backdrop-filter: blur(10px);">
+          
+  <!-- PROJECT ICON & STATUS BADGE -->
+  <div style="position: relative; margin-bottom: 20px;">
+    <div style="font-size: 70px; line-height: 1; margin-bottom: 10px; filter: drop-shadow(0 10px 10px rgba(59,130,246,0.5));">🏛️</div>
+    <img src="https://img.shields.io/badge/STATUS-LIVE%20PRODUCTION-10B981?style=flat-square&labelColor=0D1117" width="160" style="margin: 10px 0;"/>
+  </div>
   
-  <p align="center" style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <!-- TITLE & ROLE -->
+  <h3 style="color: #3B82F6; font-size: 28px; margin: 10px 0 5px; text-shadow: 0 0 20px #3B82F6;">BRRMS</h3>
+  <p style="color: #8B949E; font-size: 16px; margin-top: 0;">Barangay Records Management</p>
+  <div style="background: linear-gradient(90deg, #3B82F6, #8B5CF6); padding: 5px 15px; border-radius: 50px; display: inline-block; margin: 10px 0;">
+    <strong style="color: white;">🏆 LEAD DEVELOPER</strong>
+  </div>
+  
+  <!-- DESCRIPTION -->
+  <p style="color: #C9D1D9; font-size: 14px; line-height: 1.6; margin: 20px 0; padding: 0 10px;">
+    Digital transformation platform revolutionizing barangay operations with automated document processing and real-time citizen services.
   </p>
   
-  <p align="center">
-    <a href="https://bgryemgmabrrms.com/">
-      <img src="https://img.shields.io/badge/🔗_Live_Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-  </p>
+  <!-- FEATURE PILLS -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 20px 0;">
+    <span style="background: rgba(59,130,246,0.15); color: #3B82F6; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(59,130,246,0.3);">📄 Document Gen</span>
+    <span style="background: rgba(59,130,246,0.15); color: #3B82F6; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(59,130,246,0.3);">📱 SMS Gateway</span>
+    <span style="background: rgba(59,130,246,0.15); color: #3B82F6; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(59,130,246,0.3);">🤖 Telegram Bot</span>
+    <span style="background: rgba(59,130,246,0.15); color: #3B82F6; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(59,130,246,0.3);">⚡ REST API</span>
+  </div>
+  
+  <!-- TECH STACK BADGES -->
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117"/>
+  </div>
+  
+  <!-- METRICS ROW -->
+  <div style="display: flex; justify-content: space-around; margin: 25px 0; padding: 15px 0; border-top: 1px solid rgba(59,130,246,0.2); border-bottom: 1px solid rgba(59,130,246,0.2);">
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #3B82F6;">500+</div>
+      <div style="font-size: 12px; color: #8B949E;">Active Users</div>
+    </div>
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #3B82F6;">1K+</div>
+      <div style="font-size: 12px; color: #8B949E;">Documents</div>
+    </div>
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #3B82F6;">24/7</div>
+      <div style="font-size: 12px; color: #8B949E;">Uptime</div>
+    </div>
+  </div>
+  
+  <!-- ACTION BUTTON -->
+  <a href="https://bgryemgmabrrms.com/">
+    <img src="https://img.shields.io/badge/🚀_VIEW_LIVE_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3B82F6&color=0D1117" width="200"/>
+  </a>
+</div>
 </td>
-<td width="35%" align="center" style="border: none; background: rgba(59,130,246,0.1); border-radius: 15px; vertical-align: middle;">
-  <h1>📊</h1>
-  <h3>500+</h3>
-  <p>Active Users</p>
-  <h3>1000+</h3>
-  <p>Documents</p>
-  <h3>24/7</h3>
-  <p>Uptime</p>
-</td>
-  </tr>
-</table>
 
-<!-- PROJECT 2 - TELEGRAM BOT -->
-<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 20px rgba(38,165,228,0.2);">
-  <tr>
-    <td width="35%" align="center" style="border: none; background: rgba(38,165,228,0.1); border-radius: 15px; vertical-align: middle;">
-      <h1>🤖</h1>
-      <h3>300+</h3>
-      <p>Active Users</p>
-      <h3>⚡</h3>
-      <p>Instant</p>
-      <h3>100%</h3>
-      <p>Automated</p>
-    </td>
-    <td width="65%" style="border: none; padding: 20px;">
-      <img src="https://img.shields.io/badge/🤖-BOT%20DEVELOPER-26A5E4?style=flat-square" width="130"/>
-      <h2>BRRMS TELEGRAM BOT</h2>
-      <p>
-        <strong>Real-time Notification System</strong><br>
-        An intelligent bot bridging the gap between citizens and government services.
-      </p>
-      
-  <table style="border: none; width: 100%;">
-    <tr>
-      <td width="5%">✅</td>
-      <td width="45%"><strong>Real-time Updates</strong></td>
-      <td width="5%">✅</td>
-      <td width="45%"><strong>Mobile Linking</strong></td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td><strong>Chat ID Mapping</strong></td>
-      <td>✅</td>
-      <td><strong>Auto Responses</strong></td>
-    </tr>
-  </table>
+<!-- CARD 2 - TELEGRAM BOT -->
+<td width="33.33%" style="border: none; padding: 0; vertical-align: top;">
+<div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #161B22 100%); border-radius: 30px; padding: 25px 20px; box-shadow: 0 20px 40px rgba(38,165,228,0.25), 0 0 0 1px rgba(38,165,228,0.1) inset; transition: all 0.3s ease; backdrop-filter: blur(10px);">
   
-  <p align="center" style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <!-- PROJECT ICON & STATUS BADGE -->
+  <div style="position: relative; margin-bottom: 20px;">
+    <div style="font-size: 70px; line-height: 1; margin-bottom: 10px; filter: drop-shadow(0 10px 10px rgba(38,165,228,0.5));">🤖</div>
+    <img src="https://img.shields.io/badge/STATUS-24%2F7%20ACTIVE-26A5E4?style=flat-square&labelColor=0D1117" width="160" style="margin: 10px 0;"/>
+  </div>
+  
+  <!-- TITLE & ROLE -->
+  <h3 style="color: #26A5E4; font-size: 28px; margin: 10px 0 5px; text-shadow: 0 0 20px #26A5E4;">BRRMS BOT</h3>
+  <p style="color: #8B949E; font-size: 16px; margin-top: 0;">Telegram Notification System</p>
+  <div style="background: linear-gradient(90deg, #26A5E4, #8B5CF6); padding: 5px 15px; border-radius: 50px; display: inline-block; margin: 10px 0;">
+    <strong style="color: white;">⚡ REAL-TIME API</strong>
+  </div>
+  
+  <!-- DESCRIPTION -->
+  <p style="color: #C9D1D9; font-size: 14px; line-height: 1.6; margin: 20px 0; padding: 0 10px;">
+    Intelligent bot bridging citizens with government services through instant notifications, request tracking, and automated responses.
   </p>
   
-  <p align="center">
-    <a href="https://t.me/brmbsbot">
-      <img src="https://img.shields.io/badge/🤖_Try_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-    </a>
-  </p>
+  <!-- FEATURE PILLS -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 20px 0;">
+    <span style="background: rgba(38,165,228,0.15); color: #26A5E4; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(38,165,228,0.3);">⚡ Instant Updates</span>
+    <span style="background: rgba(38,165,228,0.15); color: #26A5E4; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(38,165,228,0.3);">📱 Mobile Linking</span>
+    <span style="background: rgba(38,165,228,0.15); color: #26A5E4; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(38,165,228,0.3);">🆔 Chat ID Map</span>
+    <span style="background: rgba(38,165,228,0.15); color: #26A5E4; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(38,165,228,0.3);">🤖 Auto Responses</span>
+  </div>
+  
+  <!-- TECH STACK BADGES -->
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117"/>
+  </div>
+  
+  <!-- METRICS ROW -->
+  <div style="display: flex; justify-content: space-around; margin: 25px 0; padding: 15px 0; border-top: 1px solid rgba(38,165,228,0.2); border-bottom: 1px solid rgba(38,165,228,0.2);">
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #26A5E4;">300+</div>
+      <div style="font-size: 12px; color: #8B949E;">Active Users</div>
+    </div>
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #26A5E4;">⚡</div>
+      <div style="font-size: 12px; color: #8B949E;">Instant</div>
+    </div>
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #26A5E4;">100%</div>
+      <div style="font-size: 12px; color: #8B949E;">Automated</div>
+    </div>
+  </div>
+  
+  <!-- ACTION BUTTON -->
+  <a href="https://t.me/brmbsbot">
+    <img src="https://img.shields.io/badge/🤖_TRY_THE_BOT-0D1117?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=0D1117" width="200"/>
+  </a>
+</div>
 </td>
-  </tr>
-</table>
 
-<!-- PROJECT 3 - CUBVERTOS -->
-<table align="center" width="100%" style="border: none; background: linear-gradient(145deg, #0D1117 0%, #1A1F2B 100%); border-radius: 25px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 20px rgba(164,55,58,0.2);">
-  <tr>
-    <td width="65%" style="border: none; padding: 20px;">
-      <img src="https://img.shields.io/badge/💼-SYSTEM%20DESIGNER-A4373A?style=flat-square" width="140"/>
-      <h2>CUBVERTOS SALES SYSTEM</h2>
-      <p>
-        <strong>Enterprise Business Solution</strong><br>
-        Automated sales and inventory system with comprehensive reporting and POS.
-      </p>
-      
-  <table style="border: none; width: 100%;">
+<!-- CARD 3 - CUBVERTOS -->
+<td width="33.33%" style="border: none; padding: 0; vertical-align: top;">
+<div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #161B22 100%); border-radius: 30px; padding: 25px 20px; box-shadow: 0 20px 40px rgba(164,55,58,0.25), 0 0 0 1px rgba(164,55,58,0.1) inset; transition: all 0.3s ease; backdrop-filter: blur(10px);">
+  
+  <!-- PROJECT ICON & STATUS BADGE -->
+  <div style="position: relative; margin-bottom: 20px;">
+    <div style="font-size: 70px; line-height: 1; margin-bottom: 10px; filter: drop-shadow(0 10px 10px rgba(164,55,58,0.5));">💼</div>
+    <img src="https://img.shields.io/badge/STATUS-ENTERPRISE%20READY-A4373A?style=flat-square&labelColor=0D1117" width="180" style="margin: 10px 0;"/>
+  </div>
+  
+  <!-- TITLE & ROLE -->
+  <h3 style="color: #A4373A; font-size: 28px; margin: 10px 0 5px; text-shadow: 0 0 20px #A4373A;">CUBVERTOS</h3>
+  <p style="color: #8B949E; font-size: 16px; margin-top: 0;">Sales & Inventory System</p>
+  <div style="background: linear-gradient(90deg, #A4373A, #8B5CF6); padding: 5px 15px; border-radius: 50px; display: inline-block; margin: 10px 0;">
+    <strong style="color: white;">💼 SYSTEM DESIGNER</strong>
+  </div>
+  
+  <!-- DESCRIPTION -->
+  <p style="color: #C9D1D9; font-size: 14px; line-height: 1.6; margin: 20px 0; padding: 0 10px;">
+    Enterprise-grade POS and inventory management with automated sales computation, receipt generation, and role-based access control.
+  </p>
+  
+  <!-- FEATURE PILLS -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 20px 0;">
+    <span style="background: rgba(164,55,58,0.15); color: #A4373A; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(164,55,58,0.3);">💰 POS Module</span>
+    <span style="background: rgba(164,55,58,0.15); color: #A4373A; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(164,55,58,0.3);">🧾 Receipt Gen</span>
+    <span style="background: rgba(164,55,58,0.15); color: #A4373A; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(164,55,58,0.3);">📊 Inventory</span>
+    <span style="background: rgba(164,55,58,0.15); color: #A4373A; padding: 6px 12px; border-radius: 50px; font-size: 12px; font-weight: 600; border: 1px solid rgba(164,55,58,0.3);">🔐 Role Access</span>
+  </div>
+  
+  <!-- TECH STACK BADGES -->
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/badge/MS_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white&labelColor=0D1117"/>
+  </div>
+  
+  <!-- METRICS ROW -->
+  <div style="display: flex; justify-content: space-around; margin: 25px 0; padding: 15px 0; border-top: 1px solid rgba(164,55,58,0.2); border-bottom: 1px solid rgba(164,55,58,0.2);">
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #A4373A;">100%</div>
+      <div style="font-size: 12px; color: #8B949E;">Automated</div>
+    </div>
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #A4373A;">📈</div>
+      <div style="font-size: 12px; color: #8B949E;">Real-time</div>
+    </div>
+    <div>
+      <div style="font-size: 24px; font-weight: 700; color: #A4373A;">🔐</div>
+      <div style="font-size: 12px; color: #8B949E;">Secure</div>
+    </div>
+  </div>
+  
+  <!-- ACTION BUTTON (COMING SOON) -->
+  <img src="https://img.shields.io/badge/🔒_VIEW_CASE_STUDY-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=A4373A&color=0D1117" width="200"/>
+</div>
+</td>
+</tr>
+  </table>
+</p>
+
+<!-- ADDITIONAL PROJECT HIGHLIGHT BANNER -->
+<p align="center">
+  <table width="95%" style="border: none; background: linear-gradient(90deg, rgba(59,130,246,0.1) 0%, rgba(139,92,246,0.1) 100%); border-radius: 50px; margin-top: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.05);">
     <tr>
-      <td width="5%">✅</td>
-      <td width="45%"><strong>Sales Computation</strong></td>
-      <td width="5%">✅</td>
-      <td width="45%"><strong>POS Module</strong></td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td><strong>Receipt Generation</strong></td>
-      <td>✅</td>
-      <td><strong>Role-Based Access</strong></td>
-    </tr>
-    <tr>
-      <td>✅</td>
-      <td><strong>Inventory Tracking</strong></td>
-      <td>✅</td>
-      <td><strong>Daily Reports</strong></td>
+      <td align="center" style="border: none; padding: 20px;">
+        <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+          <span style="font-size: 40px;">✨</span>
+          <div>
+            <strong style="color: #3B82F6; font-size: 20px;">Each project is production-deployed with real users</strong>
+            <p style="color: #8B949E; margin: 5px 0 0;">From concept to deployment — building solutions that matter</p>
+          </div>
+          <span style="font-size: 40px;">⚡</span>
+        </div>
+      </td>
     </tr>
   </table>
-  
-  <p align="center" style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/MS_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-  </p>
-</td>
-<td width="35%" align="center" style="border: none; background: rgba(164,55,58,0.1); border-radius: 15px; vertical-align: middle;">
-  <h1>💼</h1>
-  <h3>100%</h3>
-  <p>Automated</p>
-  <h3>📈</h3>
-  <p>Real-time</p>
-  <h3>🔐</h3>
-  <p>Secure</p>
-</td>
-  </tr>
-</table>
+</p>
 
 <br>
 
