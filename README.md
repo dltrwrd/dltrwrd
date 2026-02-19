@@ -100,11 +100,6 @@
       <td width="33.33%" style="border: none; padding: 0; vertical-align: top;">
         <div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #161B22 100%); border-radius: 30px; padding: 25px 20px; box-shadow: 0 20px 40px rgba(59,130,246,0.25), 0 0 0 1px rgba(59,130,246,0.1) inset; transition: all 0.3s ease; backdrop-filter: blur(10px);">
           
-  <!-- PROJECT ICON & STATUS BADGE -->
-  <div style="position: relative; margin-bottom: 20px;">
-    <div style="font-size: 70px; line-height: 1; margin-bottom: 10px; filter: drop-shadow(0 10px 10px rgba(59,130,246,0.5));">🏛️</div>
-    <img src="https://img.shields.io/badge/STATUS-LIVE%20PRODUCTION-10B981?style=flat-square&labelColor=0D1117" width="160" style="margin: 10px 0;"/>
-  </div>
   
   <!-- TITLE & ROLE -->
   <h3 style="color: #3B82F6; font-size: 28px; margin: 10px 0 5px; text-shadow: 0 0 20px #3B82F6;">BRRMS</h3>
@@ -160,11 +155,6 @@
 <td width="33.33%" style="border: none; padding: 0; vertical-align: top;">
 <div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #161B22 100%); border-radius: 30px; padding: 25px 20px; box-shadow: 0 20px 40px rgba(38,165,228,0.25), 0 0 0 1px rgba(38,165,228,0.1) inset; transition: all 0.3s ease; backdrop-filter: blur(10px);">
   
-  <!-- PROJECT ICON & STATUS BADGE -->
-  <div style="position: relative; margin-bottom: 20px;">
-    <div style="font-size: 70px; line-height: 1; margin-bottom: 10px; filter: drop-shadow(0 10px 10px rgba(38,165,228,0.5));">🤖</div>
-    <img src="https://img.shields.io/badge/STATUS-24%2F7%20ACTIVE-26A5E4?style=flat-square&labelColor=0D1117" width="160" style="margin: 10px 0;"/>
-  </div>
   
   <!-- TITLE & ROLE -->
   <h3 style="color: #26A5E4; font-size: 28px; margin: 10px 0 5px; text-shadow: 0 0 20px #26A5E4;">BRRMS BOT</h3>
@@ -220,11 +210,6 @@
 <td width="33.33%" style="border: none; padding: 0; vertical-align: top;">
 <div align="center" style="background: linear-gradient(145deg, #0D1117 0%, #161B22 100%); border-radius: 30px; padding: 25px 20px; box-shadow: 0 20px 40px rgba(164,55,58,0.25), 0 0 0 1px rgba(164,55,58,0.1) inset; transition: all 0.3s ease; backdrop-filter: blur(10px);">
   
-  <!-- PROJECT ICON & STATUS BADGE -->
-  <div style="position: relative; margin-bottom: 20px;">
-    <div style="font-size: 70px; line-height: 1; margin-bottom: 10px; filter: drop-shadow(0 10px 10px rgba(164,55,58,0.5));">💼</div>
-    <img src="https://img.shields.io/badge/STATUS-ENTERPRISE%20READY-A4373A?style=flat-square&labelColor=0D1117" width="180" style="margin: 10px 0;"/>
-  </div>
   
   <!-- TITLE & ROLE -->
   <h3 style="color: #A4373A; font-size: 28px; margin: 10px 0 5px; text-shadow: 0 0 20px #A4373A;">CUBVERTOS</h3>
@@ -274,24 +259,6 @@
 </div>
 </td>
 </tr>
-  </table>
-</p>
-
-<!-- ADDITIONAL PROJECT HIGHLIGHT BANNER -->
-<p align="center">
-  <table width="95%" style="border: none; background: linear-gradient(90deg, rgba(59,130,246,0.1) 0%, rgba(139,92,246,0.1) 100%); border-radius: 50px; margin-top: 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.05);">
-    <tr>
-      <td align="center" style="border: none; padding: 20px;">
-        <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-          <span style="font-size: 40px;">✨</span>
-          <div>
-            <strong style="color: #3B82F6; font-size: 20px;">Each project is production-deployed with real users</strong>
-            <p style="color: #8B949E; margin: 5px 0 0;">From concept to deployment — building solutions that matter</p>
-          </div>
-          <span style="font-size: 40px;">⚡</span>
-        </div>
-      </td>
-    </tr>
   </table>
 </p>
 
