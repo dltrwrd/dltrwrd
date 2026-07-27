@@ -15,7 +15,7 @@ git commit -m "hope this works"
 ```
 <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
-Building products that solve real problems.<br>
+Building products that solve real problems.<br><br>
 Powered by curiosity, coffee, and questionable late-night ideas.
 
 Mostly working on full-stack applications, internal tools, and the occasional side quest.
@@ -69,13 +69,11 @@ Mostly working on full-stack applications, internal tools, and the occasional si
 
 <img align="left" width="150" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
 
+## Got a problem?
 
+Perfect.
 
-### Need something built?
-
-Website? Internal system? Automation? API?
-
-Let's turn **"we do this manually"** into **"it runs automatically."**
+Let's make computers deal with it instead.
 
 <br clear="left"/>
 
