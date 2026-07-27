@@ -4,4 +4,6 @@ Currently working on:
 https://yomikai.xyz/
 
 
-https://tenor.com/en-GB/view/shiny-gengar-ig-gif-9566807217432504006
+<p align="center">
+  <img src="https://media.tenor.com/XXXXXXXXXXAAAAC/shiny-gengar.gif" width="250" alt="Shiny Gengar"/>
+</p>
