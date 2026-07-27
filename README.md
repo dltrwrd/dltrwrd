@@ -15,7 +15,7 @@ git commit -m "hope this works"
 ```
 <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
-Building products that solve real problems.
+Building products that solve real problems.<br>
 Powered by curiosity, coffee, and questionable late-night ideas.
 
 Mostly working on full-stack applications, internal tools, and the occasional side quest.
