@@ -1,6 +1,3 @@
-<div align="right">
-  <img width="160" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
-</div>
 
 ```
     ______    __                        __
@@ -27,6 +24,11 @@ React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; MySQL &nbsp;�
 
 **Other things I know**  
 How to Google. How to read a Stack Overflow answer from 2011 and make it work in 2025.
+
+<div align="right">
+  <img width="160" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
+</div>
+
 
 ---
 
