@@ -10,7 +10,9 @@
 ```
 </div>
 
-```git commit -m "hope this works"```
+```
+git commit -m "hope this works"
+```
 
 
 
