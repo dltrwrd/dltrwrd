@@ -10,13 +10,11 @@
 ```
 
 `git commit -m "hope this works"`
-
+</div>
 Building products that solve real problems.  
 Overengineering them just enough to be fun.
 
-Currently shipping **Yomikai**, building internal tools, and occasionally convincing myself that *"one more feature"* is a good idea.
 
-</div>
 
 <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
