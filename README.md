@@ -22,25 +22,17 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 ## Tech Stack? wtf was that?
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,typescript,php,nodejs,postgres,mysql,redis,docker,cloudflare,linux,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,typescript,php,nodejs,postgres,mysql,redis,docker,cloudflare,linux,git,github,vscode" />
 </p>
 
+<p>
+  <img src="https://cdn.simpleicons.org/openai" height="48" alt="ChatGPT" />
+  <img src="https://cdn.simpleicons.org/anthropic" height="48" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/github" height="48" alt="GitHub Copilot/Codex" />
+</p>
+</p>
 
-## Things That Somehow Escaped My Laptop
-
-- **Yomikai** — Modern anime streaming platform
-- **IT Toolkit** — Internal tools & workflow automations
-- **Restaurant POS** — Point-of-sale system
-- **E-Commerce** — Full-stack shopping platform
-- **Portfolio Builder** — Generate portfolios without the headache
-
-
-## Current Status
-
-- Building products
-- Learning something new every week
-- Debugging things I wrote yesterday
-- Pretending `TODO:` comments don't exist
 
 
 <img align="left" width="150" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
