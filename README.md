@@ -18,7 +18,6 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 
 <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
----
 
 ## Tech Stack? wtf was that?
 
@@ -26,17 +25,15 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,typescript,php,nodejs,postgres,mysql,redis,docker,cloudflare,linux,git,github,vscode" />
 </p>
 
----
 
 ## Things That Somehow Escaped My Laptop
 
-- 🌸 **Yomikai** — Modern anime streaming platform
-- 🧰 **IT Toolkit** — Internal tools & workflow automations
-- 🍔 **Restaurant POS** — Point-of-sale system
-- 🛒 **E-Commerce** — Full-stack shopping platform
-- 📄 **Portfolio Builder** — Generate portfolios without the headache
+- **Yomikai** — Modern anime streaming platform
+- **IT Toolkit** — Internal tools & workflow automations
+- **Restaurant POS** — Point-of-sale system
+- **E-Commerce** — Full-stack shopping platform
+- **Portfolio Builder** — Generate portfolios without the headache
 
----
 
 ## Current Status
 
@@ -45,7 +42,6 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 - Debugging things I wrote yesterday
 - Pretending `TODO:` comments don't exist
 
----
 
 <img align="left" width="150" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
 
@@ -58,8 +54,8 @@ Let's turn **"we do this manually"** into **"it runs automatically."**
 <br clear="left"/>
 
 ```
-Status: 🟢 Building
-Coffee: ☕ Enough
+Status: Building
+Coffee: Enough
 Production: Probably fine.
 ```
 
