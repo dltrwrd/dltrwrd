@@ -21,17 +21,11 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 
 ## Tech Stack? wtf was that?
 
-<p>
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,typescript,php,nodejs,postgres,mysql,redis,docker,cloudflare,linux,git,github,vscode" />
-</p>
-
-<p>
-  <img src="https://cdn.simpleicons.org/openai" height="48" alt="ChatGPT" />
-  <img src="https://cdn.simpleicons.org/anthropic" height="48" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/github" height="48" alt="GitHub Copilot/Codex" />
-</p>
-</p>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 
