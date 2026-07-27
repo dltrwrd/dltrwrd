@@ -1,21 +1,44 @@
-<h1 align="center">Edward</h1>
+<img align="right" width="180" src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" />
 
-<p align="center">
-  <img src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="220" alt="Shiny Gengar"/>
-</p>
+# Edward
 
-<p align="center">
-  Building products that solve real problems and scale globally.
+> Building products that solve real problems and scale globally.
+
+I'm a software developer from the Philippines focused on backend engineering, system architecture, and building products people actually enjoy using.
+
+Currently building **Yomikai**, a modern anime streaming platform designed for speed, scalability, and simplicity.
+
+<br>
+
+### Current Project
+
+<a href="https://yomikai.xyz">
+  <img src="https://img.shields.io/badge/Yomikai-Visit%20Website-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+---
+
+### Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,ts,php,nodejs,postgres,redis,docker,cloudflare,git,linux" />
 </p>
 
 ---
 
-Currently building **Yomikai**.
+### What I'm Working On
 
-https://yomikai.xyz/
+- High-performance backend systems
+- Enterprise-grade architecture
+- Modern web applications
+- Performance optimization
+- Open source projects
 
-Focused on backend engineering, scalable systems, and creating products that people genuinely enjoy using.
+---
 
-**Stack**
+### GitHub Stats
 
-Laravel • Next.js • React • TypeScript • PostgreSQL • Redis • Docker • Cloudflare
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+</p>
