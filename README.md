@@ -2,8 +2,7 @@
 
 # Edward
 
-
-I'm a software developer from the Philippines focused on backend engineering, system architecture, and building products people actually enjoy using.
+A Fullstack Software Developer as a hobby, creating websites, apps, systems etc that helps my growth and help people in their repetitive and daily tasks
 
 ---
 
