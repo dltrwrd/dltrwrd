@@ -5,5 +5,5 @@ https://yomikai.xyz/
 
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/shiny-gengar-ig-gif-9566807217432504006" width="250" alt="Shiny Gengar"/>
+  <img src="https://media.tenor.com/hMQgeiW1JsYAAAAi/shiny-gengar-ig.gif" width="250" alt="Shiny Gengar"/>
 </p>
