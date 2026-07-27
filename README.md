@@ -48,10 +48,8 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
-![ChatGPT](https://img.shields.io/badge/Augment-000000?style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat)
-
-<br>
 
 <img align="left" width="150" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
 
