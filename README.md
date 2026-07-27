@@ -1,73 +1,65 @@
-
-```
     ______    __                        __
    / ____/___/ /      ______ __________/ /
   / __/ / __  / | /| / / __ `/ ___/ __  /
  / /___/ /_/ /| |/ |/ / /_/ / /  / /_/ /
 /_____/\__,_/ |__/|__/\__,_/_/   \__,_/
-```
 
 ```
 git commit -m "hope this works"
 ```
 
 Building products that solve real problems.  
-Creating new ones along the way.
+Overengineering them just enough to be fun.
+
+Currently shipping **Yomikai**, building internal tools, and occasionally convincing myself that *"one more feature"* is a good idea.
+
+<img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
 ---
 
-**Languages**  
-JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; PHP &nbsp;·&nbsp; SQL
+## Tech Stack? wtf was that?
 
-**Tools**  
-React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Git
-
-**Other things I know**  
-How to Google. How to read a Stack Overflow answer from 2011 and make it work in 2025.
-
-<div align="right">
-  <img width="160" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
-</div>
-
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,typescript,php,nodejs,postgres,mysql,redis,docker,cloudflare,linux,git,github,vscode" />
+</p>
 
 ---
 
-### Things that escaped my laptop
+## Things That Somehow Escaped My Laptop
 
-**[Yomikai](https://github.com/yourusername/yomikai)**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ _What it does in one line_
-
-**[IT Toolkit](https://github.com/yourusername/it-toolkit)**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ _What it does in one line_
-
-**[Ecommerce](https://github.com/yourusername/ecommerce)**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ _What it does in one line_
-
-**[POS System](https://github.com/yourusername/pos)**  
-&nbsp;&nbsp;&nbsp;&nbsp;→ _What it does in one line_
+- 🌸 **Yomikai** — Modern anime streaming platform
+- 🧰 **IT Toolkit** — Internal tools & workflow automations
+- 🍔 **Restaurant POS** — Point-of-sale system
+- 🛒 **E-Commerce** — Full-stack shopping platform
+- 📄 **Portfolio Builder** — Generate portfolios without the headache
 
 ---
 
-### Current status
+## Current Status
 
-```
-[  ACTIVE  ]  Building something. It has a name. The name will change.
-[ ONGOING  ]  Learning whatever I should have learned six months ago.
-[  PAUSED  ]  Sleep. Sometimes.
-```
+- Building products
+- Learning something new every week
+- Debugging things I wrote yesterday
+- Pretending `TODO:` comments don't exist
 
 ---
 
 <img align="left" width="150" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
 
-&nbsp;&nbsp;&nbsp;**Need something built?**
+### Need something built?
 
-&nbsp;&nbsp;&nbsp;Let's make your repetitive task somebody else's problem.
+Website? Internal system? Automation? API?
 
-&nbsp;&nbsp;&nbsp;[youremail@example.com](mailto:youremail@example.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yourprofile)
+Let's turn **"we do this manually"** into **"it runs automatically."**
 
-<br /><br />
+<br clear="left"/>
 
 ---
 
-<sub>last updated: after a debugging session that went longer than expected</sub>
+> **Fun fact:** Every project starts with *"this should only take a weekend."*
+
+```
+Status: 🟢 Building
+Coffee: ☕ Enough
+Production: Probably fine.
+```
