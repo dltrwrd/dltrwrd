@@ -52,9 +52,11 @@ Overengineering them just enough to be fun.
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat)
 
+---
+
 <img align="left" width="150" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
 
----
+
 
 ### Need something built?
 
