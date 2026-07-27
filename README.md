@@ -66,10 +66,13 @@ Let's turn **"we do this manually"** into **"it runs automatically."**
 
 <br clear="left"/>
 
-```
-Status: Building
-Coffee: Enough
-Production: Probably fine.
+```bash
+$ status
+
+Building      ██████████
+Coffee        ████████░░
+Sleep         ██░░░░░░░░
+Production    Probably fine.
 ```
 
 <sub>last updated: after a debugging session that went longer than expected</sub>
