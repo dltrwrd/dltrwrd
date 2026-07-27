@@ -40,6 +40,11 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=000000)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white)
 
 ### Goated Tools
 
@@ -55,6 +60,7 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat)
+![Antigravity](https://img.shields.io/badge/Antigravity-6C63FF?style=flat)
 
 ---
 
