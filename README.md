@@ -57,12 +57,10 @@ Let's turn **"we do this manually"** into **"it runs automatically."**
 
 <br clear="left"/>
 
----
-
-> **Fun fact:** Every project starts with *"this should only take a weekend."*
-
 ```
 Status: 🟢 Building
 Coffee: ☕ Enough
 Production: Probably fine.
 ```
+
+<sub>last updated: after a debugging session that went longer than expected</sub>
