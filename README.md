@@ -19,7 +19,7 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
 
-## Things I Blame When Production Breaks
+### Things I Blame When Production Breaks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -50,6 +50,8 @@ Currently shipping **Yomikai**, building internal tools, and occasionally convin
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
 ![ChatGPT](https://img.shields.io/badge/Augment-000000?style=flat)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat)
+
+<br>
 
 <img align="left" width="150" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
 
