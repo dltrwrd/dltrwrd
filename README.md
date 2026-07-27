@@ -13,13 +13,14 @@
 ```
 git commit -m "hope this works"
 ```
-
+<img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 Building products that solve real problems.  
 Overengineering them just enough to be fun.
+<br clear="right"/>
 
-<img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
+---
 
-### Things I Blame When Production Breaks
+## Things I Blame When Production Breaks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
