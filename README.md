@@ -69,7 +69,7 @@ Mostly working on full-stack applications, internal tools, and the occasional si
 
 <img align="left" width="150" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
 
-## Got a problem?
+### Got a problem?
 
 Perfect.
 
