@@ -1,19 +1,43 @@
-# Edward <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
+# git commit -m "hope this works" <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
-Building products that make life easier.
-Breaking a few things along the way.
+Edward
 
-Currently building **Yomikai** and whatever sounds fun at 2 AM.
+Building products that solve real problems.
 
-<br>
+Creating new ones along the way.
 
-### Tech Stack
+---
 
-<img src="https://skillicons.dev/icons?i=laravel,nextjs,react,ts,nodejs,php,postgres,redis,docker,cloudflare" />
+## Stuff I Somehow Know
+
+(skills)
+
+---
+
+## Things That Escaped My Laptop
+
+(Yomikai)
+
+(IT Toolkit)
+
+(Ecommerce)
+
+(POS)
+
+---
+
+## Current Status
+
+🟢 Building
+
+🟡 Learning
+
+🔴 Sleeping
 
 ---
 
 <img align="left" width="170" src="https://media1.tenor.com/m/rVPiydTmBR0AAAAC/i-gotchu.gif" />
 
-Need a system, website, automation,
-or just someone to say **"yeah, that's possible."**
+Need something built?
+
+Let's make your repetitive task somebody else's problem.
