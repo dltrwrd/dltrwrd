@@ -1,12 +1,12 @@
 # Edward
 
-<div align="right">
-  <img width="160" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
-</div>
-
 ```
 git commit -m "hope this works"
 ```
+
+<div align="right">
+  <img width="160" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
+</div>
 
 Building products that solve real problems.  
 Creating new ones along the way.
