@@ -15,10 +15,10 @@ git commit -m "hope this works"
 ```
 <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
-Building products that solve real problems.  
-Overengineering them just enough to be fun.
+Building products that solve real problems.
+Powered by curiosity, coffee, and questionable late-night ideas.
 
-Currently shipping **Yomikai**, building internal tools, and occasionally convincing myself that *"one more feature"* is a good idea.
+Mostly working on full-stack applications, internal tools, and the occasional side quest.
 
 <br clear="right"/>
 
