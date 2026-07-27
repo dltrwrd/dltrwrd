@@ -14,15 +14,10 @@
 git commit -m "hope this works"
 ```
 
-
-
 Building products that solve real problems.  
 Overengineering them just enough to be fun.
 
-
-
 <img align="right" width="170" src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
-<br clear="right"/>
 
 ### Things I Blame When Production Breaks
 
